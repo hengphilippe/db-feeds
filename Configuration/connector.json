@@ -1,0 +1,25 @@
+{
+  "ASYWDB": {
+    "name": "ASYWDB",
+    "username": "lipz",
+    "password": "lipz#",
+    "dsn": "10.0.10.4/asycuda.customs.gov.kh",
+    "encoding": "UTF-8",
+    "tables": [
+      { "name": "SOE.CUSTOMERS", "SCN": 0 },
+      { "name": "SOE.ORDERS", "SCN": 0 },
+      { "name": "SOE.LOGON", "SCN": 0 }
+    ]
+  },
+  "ECUSDB": {
+    "name": "ECUSDB",
+    "username": "lipz",
+    "password": "lipz#",
+    "dsn": "10.0.10.24/ecusstby.customs.gov.kh",
+    "encoding": "UTF-8",
+    "tables": [
+      { "name": "SCOTT.EMP", "SCN": 0 },
+      { "name": "SCOTT.DEPT", "SCN": 0 }
+    ]
+  }
+}
